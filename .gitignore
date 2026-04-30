@@ -1,0 +1,12 @@
+
+# Backups
+backups/
+tools/
+*.py
+*.jsx
+*.bak
+*.tmp
+
+# System files
+.DS_Store
+Thumbs.db
