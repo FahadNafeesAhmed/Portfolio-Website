@@ -1,0 +1,21 @@
+{
+  "name": "portfolio-website",
+  "version": "1.0.0",
+  "description": "High-performance GPU Systems & AI Research portfolio. Built with React and a custom hardware-accelerated SVG engine.",
+  "private": true,
+  "scripts": {
+    "dev": "python -m http.server 8000",
+    "vercel-build": "echo 'Static site - no build step required'"
+  },
+  "dependencies": {
+    "@vercel/speed-insights": "^1.0.12"
+  },
+  "keywords": [
+    "portfolio",
+    "react",
+    "gpu",
+    "ai"
+  ],
+  "author": "Fahad Nafees Shaikh",
+  "license": "MIT"
+}
